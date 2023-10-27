@@ -94,6 +94,14 @@
       ],
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToEnumerationBinder",
       "PreviousPropertyGuid": "34cb4c26-b959-489b-baaf-7559229ddbb4"
+    },
+    {
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "31cce53b-7bb8-4426-90a3-bd889c7040da",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+      "PreviousPropertyGuid": "606e51cb-1e44-4110-a2d5-d38382c52c7d"
     }
   ],
   "PublicStructures": [],
